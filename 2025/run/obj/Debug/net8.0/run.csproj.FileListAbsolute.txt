@@ -1,0 +1,15 @@
+D:\hyojin\Private\TestCode\TIL\2025\run\bin\Debug\net8.0\run.exe
+D:\hyojin\Private\TestCode\TIL\2025\run\bin\Debug\net8.0\run.deps.json
+D:\hyojin\Private\TestCode\TIL\2025\run\bin\Debug\net8.0\run.runtimeconfig.json
+D:\hyojin\Private\TestCode\TIL\2025\run\bin\Debug\net8.0\run.dll
+D:\hyojin\Private\TestCode\TIL\2025\run\bin\Debug\net8.0\run.pdb
+D:\hyojin\Private\TestCode\TIL\2025\run\obj\Debug\net8.0\run.GeneratedMSBuildEditorConfig.editorconfig
+D:\hyojin\Private\TestCode\TIL\2025\run\obj\Debug\net8.0\run.AssemblyInfoInputs.cache
+D:\hyojin\Private\TestCode\TIL\2025\run\obj\Debug\net8.0\run.AssemblyInfo.cs
+D:\hyojin\Private\TestCode\TIL\2025\run\obj\Debug\net8.0\run.csproj.CoreCompileInputs.cache
+D:\hyojin\Private\TestCode\TIL\2025\run\obj\Debug\net8.0\run.sourcelink.json
+D:\hyojin\Private\TestCode\TIL\2025\run\obj\Debug\net8.0\run.dll
+D:\hyojin\Private\TestCode\TIL\2025\run\obj\Debug\net8.0\refint\run.dll
+D:\hyojin\Private\TestCode\TIL\2025\run\obj\Debug\net8.0\run.pdb
+D:\hyojin\Private\TestCode\TIL\2025\run\obj\Debug\net8.0\run.genruntimeconfig.cache
+D:\hyojin\Private\TestCode\TIL\2025\run\obj\Debug\net8.0\ref\run.dll
